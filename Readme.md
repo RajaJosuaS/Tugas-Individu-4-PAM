@@ -13,7 +13,7 @@ npm start
 
 3. build to apk ( android )
 ```sh 
-expo build:android
+eas build --platform android
 ```
 
 ## Bentuk Aplikasi
