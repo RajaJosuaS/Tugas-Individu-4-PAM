@@ -16,6 +16,9 @@ npm start
 eas build --platform android
 ```
 
+## Link Aplikasi
+https://expo.dev/artifacts/eas/mTVU3njc4eYYPWNHojJaUy.apk
+
 ## Bentuk Aplikasi
 
 1.  Tampilan Awal Aplikasi <br>
