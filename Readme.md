@@ -18,7 +18,7 @@ eas build --platform android
 
 ## Bentuk Aplikasi
 
-1.  Tampilan Awal Aplikasi
+1.  Tampilan Awal Aplikasi <br>
     ![](Screenshot/ReduxThunkSaga-PAM4.jpg) <br>
     Tampilan awal, pencarian jadwal pesawat , <br>
 
