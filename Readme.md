@@ -19,6 +19,10 @@ eas build --platform android
 ## Link Aplikasi
 https://expo.dev/artifacts/eas/mTVU3njc4eYYPWNHojJaUy.apk
 
+## jest testing
+![](Screenshot/jest_testing.png) <br>
+
+
 ## Bentuk Aplikasi
 
 1.  Tampilan Awal Aplikasi <br>
