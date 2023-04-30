@@ -1,4 +1,4 @@
-# Tugas Individu 3 PAM
+# Tugas Individu 4 PAM
 
 ## Cara menginstall aplikasi (dalam mode pengembangan)
 1. install module
@@ -19,7 +19,7 @@ eas build --platform android
 ## Bentuk Aplikasi
 
 1.  Tampilan Awal Aplikasi
-    ![](Screenshot/Home.png) <br>
+    ![](Screenshot/ReduxThunkSaga-PAM4.jpg) <br>
     Tampilan awal, pencarian jadwal pesawat , <br>
 
 2.  Tampilan Hasil Pencarian Akan terlihat seperti pada gambar berikut ini :
