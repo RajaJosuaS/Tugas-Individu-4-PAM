@@ -20,7 +20,7 @@ eas build --platform android
 
 1.  Tampilan Awal Aplikasi <br>
     ![](Screenshot/ReduxThunkSaga-PAM4.jpg) <br>
-    Tampilan awal, pencarian jadwal pesawat , <br>
+    Tampilan awal, pencarian jadwal pesawat aplikasi akan melakukan request ke api Ip dan menampilkannya di HomeScreen , <br>
 
 2.  Tampilan Hasil Pencarian Akan terlihat seperti pada gambar berikut ini :
     ![](Screenshot/Hasil.png) <br>
