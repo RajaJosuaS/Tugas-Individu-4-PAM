@@ -1,4 +1,4 @@
-# Tugas Individu 4 PAM
+# Tugas Individu 4 PAM Redux Thunk & Saga
 
 ## Cara menginstall aplikasi (dalam mode pengembangan)
 1. install module
